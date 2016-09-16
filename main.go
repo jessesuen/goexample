@@ -1,7 +1,6 @@
 package main
 import "fmt"
 
-
 var logo =
 "                                                                                                                                                                 \n"+
 "                                                                                                                                                           ,     \n"+
