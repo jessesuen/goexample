@@ -8,7 +8,7 @@ container:
     mem_mib: 256
     cpu_cores: 0.1
     disk_gb: 10
-  image: docker.applatix.io/applatix/axcheckout:v2
+  image: get.applatix.io/applatix/axcheckout:v2
   docker_options: ""
   command: "/ax/bin/axcheckout.py %%repo%% %%commit%%"
 inputs:
